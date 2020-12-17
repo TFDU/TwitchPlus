@@ -5,3 +5,7 @@ This is the log in development process
 * Twitch api
 * Backend environment(Tomcat)
 * Java servlet for search function
+### V0.0.2
+* AWS RDS instance
+* MySQL
+
