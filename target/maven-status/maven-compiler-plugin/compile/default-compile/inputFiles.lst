@@ -1,2 +1,7 @@
-D:\projects\20201124Winter\src\main\java\com\laioffer\jupiter\servlet\entity\Game.java
-D:\projects\20201124Winter\src\main\java\com\laioffer\jupiter\servlet\GameServlet.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\external\TwitchException.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\entity\Game.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\entity\Item.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\external\TwitchClient.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\servlet\GameServlet.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\servlet\SearchServlet.java
+D:\projects\TwitchPlus\src\main\java\com\laioffer\jupiter\entity\ItemType.java
