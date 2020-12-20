@@ -9,4 +9,7 @@ This is the log in development process
 ### V0.0.2
 * AWS RDS instance
 * MySQL
+### V0.0.3
+* MySQL connection
+* Favorite function
 
