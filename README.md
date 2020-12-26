@@ -12,4 +12,6 @@ This is the log in development process
 ### V0.0.3
 * MySQL connection
 * Favorite function
-
+### V0.0.4
+* Register&Login&Logout
+* Servlet Implementation Update
