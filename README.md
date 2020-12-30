@@ -15,3 +15,5 @@ This is the log in development process
 ### V0.0.4
 * Register&Login&Logout
 * Servlet Implementation Update
+### V0.0.5
+* React WebFront Initialization
