@@ -23,4 +23,7 @@ This is the log in development process
 ### V0.0.7
 * React WebFront Update
 * Favorite & Recommendation
+### V0.0.8
+* React WebFront Update
+* Backend Recommendation Update
 
