@@ -13,10 +13,14 @@ This is the log in development process
 * MySQL connection
 * Favorite function
 ### V0.0.4
-* Register&Login&Logout
+* Register & Login & Logout
 * Servlet Implementation Update
 ### V0.0.5
 * React WebFront Initialization
 ### V0.0.6
 * React WebFront Update
-* WebFront Skeleton&Authentication
+* Skeleton & Authentication
+### V0.0.7
+* React WebFront Update
+* Favorite & Recommendation
+
