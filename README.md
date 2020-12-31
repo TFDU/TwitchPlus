@@ -17,3 +17,6 @@ This is the log in development process
 * Servlet Implementation Update
 ### V0.0.5
 * React WebFront Initialization
+### V0.0.6
+* React WebFront Update
+* WebFront Skeleton&Authentication
