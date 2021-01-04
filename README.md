@@ -26,4 +26,6 @@ This is the log in development process
 ### V0.0.8
 * React WebFront Update
 * Backend Recommendation Update
+### V0.0.9
+* Demo
 
