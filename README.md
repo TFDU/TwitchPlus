@@ -1,5 +1,7 @@
 # TwitchPlus
 A personalized Twitch resources recommendation engine
+## Demo
+![img]
 ## Developer Log
 This is the log in development process
 ### V0.0.1
