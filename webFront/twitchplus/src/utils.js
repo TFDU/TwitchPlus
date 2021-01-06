@@ -1,7 +1,7 @@
 // If you don't want to host your server code and client code together, you can 
 // pay AWS to host your server with HTTPS then config the api url endpoints like below
 // const SERVER_ORIGIN = '<Your server's url>'; 
-const SERVER_ORIGIN = '/jupiter';
+const SERVER_ORIGIN = '';
  
 const loginUrl = `${SERVER_ORIGIN}/login`;
  
