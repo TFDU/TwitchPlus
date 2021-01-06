@@ -30,4 +30,5 @@ This is the log in development process
 * Backend Recommendation Update
 ### V0.0.9
 * Demo
-
+### V0.1.0
+* Integration of Frontend and Backend
