@@ -1,5 +1,7 @@
 # TwitchPlus
 A personalized Twitch resources recommendation engine
+## Demo
+![image](https://github.com/TFDU/TwitchPlus/blob/main/demo/TwitchPlus.gif)
 ## Developer Log
 This is the log in development process
 ### V0.0.1
@@ -26,4 +28,6 @@ This is the log in development process
 ### V0.0.8
 * React WebFront Update
 * Backend Recommendation Update
+### V0.0.9
+* Demo
 
